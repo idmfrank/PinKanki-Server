@@ -11,5 +11,3 @@ $ ./gradlew run
 ```
 
 Then go to http://localhost:8080/hello/John
-
-To run the tests run `./gradlew test` 
