@@ -1,6 +1,6 @@
-### hello-world-java
+### java-micronaut
 
-The hello-world-java example is a simple Hello World implementation written in Java.
+The java-micronaut example is a simple Hello World implementation written in Java.
 
 To run the application with Gradle use:
 
