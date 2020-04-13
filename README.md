@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/idmfrank/java-micronaut) 
+
 ### java-micronaut
 
 The java-micronaut example is a simple Hello World implementation written in Java.
