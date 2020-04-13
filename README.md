@@ -7,7 +7,6 @@ The java-micronaut example is a simple Hello World implementation written in Jav
 To run the application with Gradle use:
 
 ```bash
-$ cd hello-world-java
 $ ./gradlew run
 ```
 
