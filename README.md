@@ -1,8 +1,9 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/idmfrank/java-micronaut) 
 
-### java-micronaut
+### PinKanki-Server
 
-The java-micronaut example is a simple Hello World implementation written in Java.
+The PinKanki-Server is the initial implementation of the PinKanki-Server written in Java
+using micronaut.
 
 To run the application with Gradle use:
 
