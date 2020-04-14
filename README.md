@@ -10,4 +10,4 @@ To run the application with Gradle use:
 $ ./gradlew run
 ```
 
-Then go to http://localhost:8080/hello/John
+Then go to http://localhost:8080/hello/Frank
