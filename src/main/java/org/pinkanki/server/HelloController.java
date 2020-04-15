@@ -31,7 +31,12 @@ import javax.validation.constraints.NotBlank;
 @Validated
 public class HelloController {
 
-    @Get(uri = "/hello/{name}", produces = MediaType.TEXT_PLAIN)
+    @Get(uri = "/", produces = MediaType.APPLICATION_JSON)
+    public Single<String> app() {
+        return Single.just("Welcome to " + Application.class.getName() + "!");
+    }
+        
+    @Get(uri = "/hello/{name}", produces = MediaType.APPLICATION_JSON)
     public Single<String> hello(@NotBlank String name) {
         return Single.just("Hello " + name + "!");
     }
