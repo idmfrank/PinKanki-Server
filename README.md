@@ -3,12 +3,12 @@
 ### PinKanki-Server
 
 The PinKanki-Server is the initial implementation of the PinKanki-Server written in Java
-using micronaut.
+using micronaut and running on Gitpod. 
 
-To run the application with Gradle use:
+To run the application with Gradle from the Gitpod console use:
 
 ```bash
 $ ./gradlew run
 ```
 
-Then go to http://localhost:8080/hello/Frank
+Then go to the Gitpod opened port.
